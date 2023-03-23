@@ -10,7 +10,7 @@ This script is intended only for testing or evaluation purposes and should not b
 
 $ git clone https://github.com/m02k/AskParveen
 
-$ cd Parveen
+$ cd AskParveen
 
 $ sh ./requirements.txt
 
