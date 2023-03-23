@@ -8,7 +8,7 @@ This script is intended only for testing or evaluation purposes and should not b
 
 #INSTALL
 
-$ git clone
+$ git clone https://github.com/m02k/AskParveen
 
 $ cd Parveen
 
